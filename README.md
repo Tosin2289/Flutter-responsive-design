@@ -1,16 +1,6 @@
 # responsive
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsiveness with flutter in a very simple and basic way
+Responsiveness on both mobile and tab/desktop view<img width="250" alt="Screenshot 2023-01-03 000621" src="https://user-images.githubusercontent.com/66890167/210285184-09420090-342a-4728-bb8c-b81d4c4dc036.png">
+<img width="248" alt="Screenshot 2023-01-03 000700" src="https://user-images.githubusercontent.com/66890167/210285187-bf49f51d-9aba-4e6c-bcf7-c1d21a703a2a.png">
+<img width="433" alt="Screenshot 2023-01-03 000544" src="https://user-images.githubusercontent.com/66890167/210285188-cd35c70f-196e-4831-89ae-8c92c37c6f7a.png">
